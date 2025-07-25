@@ -3,7 +3,7 @@
     "ghsata": true,
     "killfaded": true
   },
-  "Middlemen": {
+  "Middleman": {
     "Neptenie": true,
     "wthbryce": true,
     "Pooksterwookster": true,
