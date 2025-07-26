@@ -5,7 +5,6 @@
   },
   "Middleman": {
     "Neptenie": true,
-    "wthbryce": true,
     "Pooksterwookster": true,
     "sadnotaaladin": true,
     "70kwest": true,
