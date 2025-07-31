@@ -5,7 +5,7 @@
     "MarGamesALot": true,
     "StaleSticksOnCoffee": true,
     "Shrekiscoolbtw": true,
-    "Thunder_ucrasher6094": true,
+    "Thunder_crasher6094": true,
     "superpuppy1542": true,
     "neptunerzplanet": true,
     "PowerFurry2": true,
