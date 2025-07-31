@@ -8,6 +8,7 @@
     "Thunder_ucrasher6094": true,
     "superpuppy1542": true,
     "neptunerzplanet": true,
-    "PowerFurry2": true
+    "PowerFurry2": true,
+    "gian10050": true
   }
 }
