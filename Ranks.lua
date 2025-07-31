@@ -1,6 +1,8 @@
 {
   "TrustedTraders": {
     "ghsata": true,
-    "killfaded": true
+    "killfaded": true,
+    "MarGamesALot": true
+    
   }
 }
